@@ -15,6 +15,12 @@ body{
     color: white;
     padding: 15px 130px 15px 35px;
     margin :0;
+    font-size: 24px;
+}
+
+.small-font{
+    font-size: 18px;
+    color: #f9faf8;
 }
 
 a{
@@ -29,7 +35,6 @@ h1{
 
 .section1{
     background-color: #1f2937;
-    color: white;
     margin: 0px;
     display: flex;
     justify-content: space-between;
