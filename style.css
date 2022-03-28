@@ -128,11 +128,23 @@ img{
 .section4{
     margin: 77px 100px;
     background-color: #3882f6;
-    padding: 35px 0;
+    padding: 35px 22px;
     color: #f9faf8;
     display: flex;
     justify-content: space-around;
     align-items: center;
     border-radius: 25px;
     font-size: 20px;
+}
+
+.footer{
+    background-color: #1f2937;
+    color: #f9faf8;
+    margin: 0;
+    text-align: center;
+    padding: 23px ;
+}
+
+.footer p{
+    margin: 0;
 }
