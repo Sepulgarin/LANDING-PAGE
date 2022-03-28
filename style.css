@@ -37,6 +37,14 @@ h1{
     gap: 120px;
 }
 
+.section2{
+    padding: 25px;
+    display: flex;
+    justify-content: flex-start;
+    flex-direction: column;
+    margin: 0;
+}
+
 #container2
 {
     display: flex;
@@ -47,4 +55,36 @@ h1{
 
 #img1{
     width: 485px;
+}
+
+#header2{
+    display: block;
+    text-align: center;
+}
+
+.section2b{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 40px;
+    padding: 25px;
+
+
+}
+
+.container2
+{
+    flex: 1 1 ;
+    max-width: 300px;
+    display: flex;
+    flex-direction: column;
+}
+
+.image{
+    border-radius: 25px;
+}
+
+
+.container2 p{
+    text-align: center;
 }
