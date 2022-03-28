@@ -124,3 +124,15 @@ img{
 .container2 p{
     text-align: center;
 }
+
+.section4{
+    margin: 77px 100px;
+    background-color: #3882f6;
+    padding: 35px 0;
+    color: #f9faf8;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    border-radius: 25px;
+    font-size: 20px;
+}
