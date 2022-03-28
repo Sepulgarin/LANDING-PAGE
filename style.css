@@ -12,7 +12,7 @@ body{
     justify-content: space-between;
     align-items: center;
     background-color: #1f2937;
-    color: white;
+    color: #f9faf8;
     padding: 15px 130px 15px 35px;
     margin :0;
     font-size: 24px;
@@ -20,7 +20,7 @@ body{
 
 .small-font{
     font-size: 18px;
-    color: #f9faf8;
+    color: #E5E7EB;
 }
 
 a{
@@ -70,7 +70,7 @@ h1{
 
 #quote{
     font-style: italic;
-    font-weight:light;
+    font-weight: 300;
     font-size: 36px;
     color: #1f2937;
 }
@@ -85,7 +85,7 @@ h1{
 
 #hero{
     font-size: 48px;
-    font-weight: extra-bold;
+    font-weight: 800;
     color: #f9faf8;
 }
 
@@ -96,6 +96,8 @@ h1{
 #header2{
     display: block;
     text-align: center;
+    font-size: 36px;
+    font-weight: 800;
 }
 
 .section2b{
@@ -135,6 +137,7 @@ img{
     align-items: center;
     border-radius: 25px;
     font-size: 20px;
+    gap: 12px;
 }
 
 .footer{
@@ -147,4 +150,17 @@ img{
 
 .footer p{
     margin: 0;
+}
+
+button{
+    background-color: #3882f6;
+    color: #f9faf8;
+    border-radius: 7px;
+    border: none;
+    padding: 10px 33px;
+    font-weight: 800;
+}
+
+#button2{
+    border: 2px solid #f9faf8;
 }
